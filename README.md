@@ -1,13 +1,14 @@
 # Updated Portfolio - 9/2019
 
-This portfolio was built using [Freelancer](http://startbootstrap.com/template-overviews/freelancer/), a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid, window modals for each portfolio item, and a working PHP contact form.
-
 ## Preview
 ![Preview](img/preview.png?raw=true "Preview")
 
 ## Pending items
-1. updating all readmes
-2. 
+1. Updating all readmes
+2. Polish the Portfolio
+
+## Tools used
+HTML, CSS, Bootstrap (template). 
 
 ## Copyright and License
 
